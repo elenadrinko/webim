@@ -1,0 +1,58 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+.footer {
+  background-color: #393e6b;
+  /*height: 320px;*/
+  width: 100%;
+  display: flex;
+}
+.firstFooter {
+  margin-left: 4%;
+  padding-top: 2%;
+}
+.firstFooter__title, .firstFooter__description {
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  color: #a7aabf;
+}
+.secondFooter {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.secondFooter__oneBlock_call {
+  color: #fff;
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+#secondFooter__oneBlock_callOne {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+}
+.secondFooter__oneBlock_adress, .secondFooter__twoBlock_time {
+  color: #a7aabf;
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+.secondFooter__twoBlock {
+  padding-top: 30px;
+}
+.secondFooter__twoBlock_mail {
+  color: #fff;
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  padding-bottom: 0;
+}
+.secondFooter__twoBlock_socialMedia {
+  display: flex;
+}
+.chat {
+  background-color: #393e6b;
+  width: 100%;
+  text-align: right;
+  margin-right: 80px;
+}

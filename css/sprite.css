@@ -1,0 +1,100 @@
+.secondSection__item_imgOne {
+  width:50px; 
+  height:50px; 
+  background:url(../img/sprite_icon_twoSection.png) 0 0px;
+  margin-left: -30px;
+}
+.secondSection__item_imgTwo {
+  width:50px; 
+  height: 50px; 
+  background:url(../img/sprite_icon_twoSection.png) 50px 50px;
+  margin-left: -30px;
+}
+.fifthSection__list_imgStepOne {
+  width:74px; 
+  height:74px; 
+  background:url(../img/step.png) 0 0px;
+}
+.fifthSection__list_imgStepOne:hover, .fifthSection__list_imgStepTwo:hover, .fifthSection__list_imgStepThree:hover, .fifthSection__list_imgStepFour:hover, .fifthSection__list_imgStepFive:hover, .fifthSection__list_imgStepSix:hover {
+  transform: scale(1.2);
+}
+.fifthSection__list_imgStepTwo {
+  width:74px; 
+  height:74px; 
+  background:url(../img/step.png) 370px 375px;
+}
+.fifthSection__list_imgStepThree {
+  width:74px; 
+  height:74px; 
+  background:url(../img/step.png) 296px 300px;
+}
+.fifthSection__list_imgStepFour {
+  width:74px; 
+  height:74px; 
+  background:url(../img/step.png) 222px 225px;
+}
+.fifthSection__list_imgStepFive {
+  width:74px; 
+  height:74px; 
+  background:url(../img/step.png) 148px 150px;
+}
+.fifthSection__list_imgStepSix {
+  width:74px; 
+  height:74px; 
+  background:url(../img/step.png) 74px 75px;
+}
+.lastSection__list_imgSocialOne {
+  width:40px; 
+  height:40px; 
+  background:url(../img/social.png) 0 0px;
+}
+.lastSection__list_imgSocialTwo {
+  width:40px; 
+  height:40px; 
+  background:url(../img/social.png) 163px 170px;
+}
+.lastSection__list_imgSocialThree {
+  width:40px; 
+  height:40px; 
+  background:url(../img/social.png) 80px 85px;
+}
+.lastSection__list_imgSocialFour {
+  width:40px; 
+  height:40px; 
+  background:url(../img/social.png) 245px 250px;
+}
+.lastSection__list_imgSocialFive {
+  width:40px; 
+  height:40px; 
+  background:url(../img/social.png) 120px 128px;
+}
+.lastSection__list_imgSocialSix {
+  width:40px; 
+  height:40px; 
+  background:url(../img/social.png) 40px 43px;
+}
+.lastSection__list_imgSocialSeven {
+  width:40px; 
+  height:40px; 
+  background:url(../img/social.png) 205px 210px;
+}
+.secondFooter__twoBlock_imgOne {
+  width:30px; 
+  height:30px; 
+  background:url(../img/footer_social.png) -13px 0px;
+}
+.secondFooter__twoBlock_imgTwo {
+  width:30px; 
+  height:30px; 
+  background:url(../img/footer_social.png) -52px -45px;
+}
+.secondFooter__twoBlock_imgThree {
+  width:30px; 
+  height:30px; 
+  background:url(../img/footer_social.png) -90px -86px;
+}
+.secondFooter__twoBlock_imgFour {
+  width:30px; 
+  height:30px; 
+  background:url(../img/footer_social.png) -130px -130px;
+}
